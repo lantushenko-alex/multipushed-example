@@ -1,4 +1,6 @@
 # Pushed React Native Example
+A working example of using multipushed library. It was not possible to run it on the latest React Native so some 
+3rd party lib versions were rolled back.
 
 This is an example project demonstrating how to use the `@PushedLab/pushed-react-native` package for integrating push notifications from Pushed.ru into your React Native application.
 
